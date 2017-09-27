@@ -34,7 +34,7 @@ end
 
 ![alt](assets/image_name.png)
 
----?assets/bg.png
+---?image=assets/bg.png
 
 ---
 
