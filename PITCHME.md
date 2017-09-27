@@ -30,6 +30,14 @@ end
 
 ---
 
+## Page 3
+
+![alt](assets/image_name.png)
+
+---?assets/bg.png
+
+---
+
 ## Fin
 
 おわり
